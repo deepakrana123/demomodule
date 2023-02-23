@@ -5,3 +5,4 @@
 [submodule "my_secondsubmodule"]
 	path = my_secondsubmodule
 	url = https://github.com/deepakrana123/subdemo1.git
+	branch = stable
